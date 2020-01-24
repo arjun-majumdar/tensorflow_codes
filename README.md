@@ -1,4 +1,9 @@
 # tensorflow_codes
-Deep Learning using TensorFlow 2.0 examples
+# Deep Learning, AI and Neural Networks using TensorFlow 2.0 examples
 
-'tensorflow_2_regression' Jupyter Notebook uses 'auto_mpg-processed_data' CSV file as dataset.
+This code repository showcases codes pertaining to different implementations of using TensorFlow 2.0
+
+
+### Requirements:
+- Python 3.X
+- TensorFlow 2.0
